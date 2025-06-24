@@ -11,5 +11,5 @@ https://www.youtube.com/watch?v=_ZvnD73m40o
 
 and then we will move on to milestone 4-  
 **Milestone 4**  
- Create a simple chatbot that uses the Gemini 2.0 API to respond to user inputs in a conversational way. You don’t need to learn Node.js in depth — just generate the code using ChatGPT and focus on understanding the flow.
+ **Create a simple chatbot that uses the Gemini 2.0 API to respond to user inputs in a conversational way**. You don’t need to learn Node.js in depth — just generate the code using ChatGPT and focus on understanding the flow.
 In GitHub upload node js folder (delete packages folder if it is too large) and gif/short video of your local host website in readme file.
