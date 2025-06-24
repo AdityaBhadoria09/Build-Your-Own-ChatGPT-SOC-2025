@@ -8,4 +8,4 @@ Then we will give milestone 2 which is-
 **Milestone - 2**  
 This a optional checkpoint, do this if you're  done with pytorch  
 
-** Sentiment Analysis Model using LSTM (classify movie reviews as positive/negative)**
+**Sentiment Analysis Model using LSTM (classify movie reviews as positive/negative)**

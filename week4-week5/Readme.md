@@ -10,5 +10,5 @@ Then we will give milestone 3 which will be same as milestone but have to use tr
 
 Note : you not supposed to fine-tuning
   
-##Milestone 3## 
+**Milestone 3**
 **Sentiment Analysis Model using LSTM (classify movie reviews as positive/negative)**
